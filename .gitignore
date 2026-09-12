@@ -1,0 +1,5 @@
+train/
+test/
+*.keras
+*.h5
+lizard-prediction-thomas-more/
